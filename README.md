@@ -35,14 +35,9 @@ The application uses LangChain for building LLM pipelines, Stable Diffusion for 
 📸 Output
 **- example1- Hugging face bootcamp**
 - https://a465fd858f87140de3.gradio.live/
-![Screenshot 2026-03-15 153856]
 
-**example2-stabilityai stable diffusion**
-![Screenshot 2026-03-15 155645]
-
-**example3- ghibli & stable diffusion image based**
+**example2- ghibli & stable diffusion image based**
 - https://dad63591021d21824b.gradio.live/
-- ![Screenshot 2026-03-15 160308]
 
 **💡 Use Cases**
 - AI chatbots
